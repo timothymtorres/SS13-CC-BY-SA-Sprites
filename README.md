@@ -3,6 +3,14 @@ SS13 CC-BY-SA Sprites
 
 This repo's purpose is to be a location for **ONLY** sprites that were made under the [CC-BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/).  This will allow other developers who might be working on apps or games to use the artwork in their projects for commercial purposes.
 
+*DISCLAIMER*
+------------
+
+There are two folders in the repo that seperates the sprites into two categories.  
+
+* **Legitimate** - sprites that have been vetted as orginal. (okay to use)
+* **Dubious** - sprites that could possibly be derivatives. (use at your own risk) 
+
 The Purpose
 ===========
 
@@ -21,7 +29,9 @@ Overall, roughly 30-45% of the artwork from the current tg branch was a goon res
 
 There was also some artwork that looked like they were a reskin or derivative on *first glance* but turned out not to be.  This tended to be the case especially with smaller objects (wirecutters, screwdriver, esword, etc.) and objects that had simple shapes to them. (square billboards, effects, etc.)  I also ignored objects that were too small or just a simple line. (5 pixel long cigarette, 3 pixel mustache, etc.)
 
-While I cannot say for certain that I managed to prune every goon sprite with 100% accuracy from tg's artwork, I am confident I removed at least +95%.  If you are unsure about something, feel free to double check.
+I cannot say for certain that I managed to prune every goon sprite with 100% accuracy from tg's artwork.  If you are unsure about something, feel free to double check.
+
+Upon posting this repo a few people have pointed out sprites I have missed that have been removed.  Additionally, there has been some disagreement over a few sprites that have questionable orgins.  Thus I have decided to segregate these sprites into their own folder (dubious) if everyone cannot agree it's an orginal art asset.
 
 How You Can Help
 ================
@@ -33,6 +43,7 @@ Thanks!
 TODO List
 =========
 
+- [x] Quarantine suspicious sprites
 - [ ] Prune bay's sprites from goon  
 
 Credits
